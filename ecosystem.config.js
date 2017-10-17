@@ -8,7 +8,7 @@ module.exports = {
     // First application
     {
       name      : 'MockX',
-      script    : 'app.js',
+      script    : './bin/www',
       env: {
         COMMON_VARIABLE: 'true'
       },
